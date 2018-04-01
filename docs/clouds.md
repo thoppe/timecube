@@ -1,7 +1,7 @@
 ----- .wrap
 
 @h1 .text-data **timecube**
-@h4 :sunny: _clouds_
+@h4 :cloud: _clouds_
 
 
 @footer

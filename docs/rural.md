@@ -24,3 +24,7 @@
 @h1 .text-landing Rural height
 
 ---- .wrap .aligncenter
+@h1 .text-landing :sunny: [Sunset](sunset.html)
+@h1 .text-landing :cloud: [Clouds](clouds.html)
+@h1 .text-landing :leaves: [Rural](rural.html)
+@h1 .text-landing :ocean: [Beach](beach.html)

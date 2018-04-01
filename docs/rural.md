@@ -1,7 +1,7 @@
 ----- .wrap
 
 @h1 .text-data **timecube**
-@h4 :sunny: _sunsets_
+@h4 :sunny: _rural_
 
 
 @footer
@@ -12,20 +12,15 @@
    ::twitter:: @metasemantic 
 
 ---- .slide-bottom .bg-black
-@background_video(url="videos/Sunset1_frames.mp4")
-@h1 .text-landing Sunset Original 
+@background_video(url="videos/Rural1_frames.mp4")
+@h1 .text-landing Rural Original 
 
 ---- .slide-bottom .bg-black
-@background_video(url="videos/Sunset1_width.mp4")
-@h1 .text-landing Sunset width
+@background_video(url="videos/Rural1_width.mp4")
+@h1 .text-landing Rural width
 
 ---- .slide-bottom .bg-black
-@background_video(url="videos/Sunset1_height.mp4")
-@h1 .text-landing Sunset height
+@background_video(url="videos/Rural1_height.mp4")
+@h1 .text-landing Rural height
 
 ---- .wrap .aligncenter
-@h1 .text-landing :sunny: [Sunset](index.md)
-@h1 .text-landing :ocean: [Beach](beach.md)
-@h1 .text-landing :leaves: [Rural](rural.md)
-@h1 .text-landing :cloud: [Clouds](clouds.md)
-

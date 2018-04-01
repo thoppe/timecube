@@ -1,7 +1,7 @@
 ----- .wrap
 
 @h1 .text-data **timecube**
-@h4 :sunny: _sunsets_
+@h4 :sunny: _sunset_
 
 
 @footer
@@ -24,8 +24,7 @@
 @h1 .text-landing Sunset height
 
 ---- .wrap .aligncenter
-@h1 .text-landing :sunny: [Sunset](index.md)
-@h1 .text-landing :ocean: [Beach](beach.md)
-@h1 .text-landing :leaves: [Rural](rural.md)
-@h1 .text-landing :cloud: [Clouds](clouds.md)
-
+@h1 .text-landing :sunny: [Sunset](sunset.html)
+@h1 .text-landing :cloud: [Clouds](clouds.html)
+@h1 .text-landing :leaves: [Rural](rural.html)
+@h1 .text-landing :ocean: [Beach](beach.html)
